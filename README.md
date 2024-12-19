@@ -1,4 +1,5 @@
 # JapanRelocateAssistant
+#AIGenerated
 
 Intial code base was created using bolt.new
 
